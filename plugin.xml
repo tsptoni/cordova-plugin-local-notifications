@@ -38,7 +38,7 @@ RawBlameHistory     193 lines (140 sloc)  7.522 kB
     </engines>
 
     <!-- dependencies -->
-    <dependency id="org.apache.cordova.device" />
+    <dependency id="cordova-plugin-device" />
 
     <!-- info -->
     <info>
